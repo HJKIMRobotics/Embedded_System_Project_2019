@@ -26,3 +26,6 @@ The Embedded Systems Project begun in laboratories and workshops which deal with
 
 • Engineering Drawing
 
+Kind regards
+
+Hyungjoo Kim
